@@ -385,8 +385,12 @@ The Instance state of the Web Server instance should change to Terminatedafter a
 # Additional Resources
 
  * [Introduction to Amazon EC2](https://amazon.qwiklabs.com/focuses/57537?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=22581955)
- * [https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/LaunchingAndUsingInstances.html]
+ 
+ * [Launch Your Instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/LaunchingAndUsingInstances.html)
 
+ * [Amazon Machine Images(AMI)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html)
+
+ * [Amazon EC2 -User Data and Shell Scripts](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html#user-data-shell-scripts)
 
 
 
